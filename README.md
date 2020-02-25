@@ -1,4 +1,3 @@
-# redo_servlet_project
 
 
 
